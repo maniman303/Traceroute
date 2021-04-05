@@ -1,1 +1,3 @@
 # Traceroute
+A simple tracerute program, needs to be compiled on Linux, tested on Ubuntu.
+Made for "Sieci Komputerowe" lecture at UWR II.
